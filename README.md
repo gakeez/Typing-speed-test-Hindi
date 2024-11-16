@@ -25,7 +25,7 @@ The test runs for 60 seconds, during which users type Hindi text displayed on sc
 
 ## How to Use
 
-1. Visit the [live demo](https://typing-speed-test-swart.vercel.app/)
+1. Visit the [live demo](https://hindi-typing-test.com/)
 2. The timer starts automatically when you begin typing
 3. Type the displayed Hindi text as quickly and accurately as possible
 4. Use backspace to correct any mistakes
